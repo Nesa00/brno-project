@@ -1,0 +1,272 @@
+<!DOCTYPE html><html><head>
+      <title>project</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      
+      <link rel="stylesheet" href="file:///c:\Users\win10\.vscode\extensions\shd101wyy.markdown-preview-enhanced-0.8.20\crossnote\dependencies\katex\katex.min.css">
+      
+      
+      
+      
+      
+      <style>
+      code[class*=language-],pre[class*=language-]{color:#333;background:0 0;font-family:Consolas,"Liberation Mono",Menlo,Courier,monospace;text-align:left;white-space:pre;word-spacing:normal;word-break:normal;word-wrap:normal;line-height:1.4;-moz-tab-size:8;-o-tab-size:8;tab-size:8;-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;hyphens:none}pre[class*=language-]{padding:.8em;overflow:auto;border-radius:3px;background:#f5f5f5}:not(pre)>code[class*=language-]{padding:.1em;border-radius:.3em;white-space:normal;background:#f5f5f5}.token.blockquote,.token.comment{color:#969896}.token.cdata{color:#183691}.token.doctype,.token.macro.property,.token.punctuation,.token.variable{color:#333}.token.builtin,.token.important,.token.keyword,.token.operator,.token.rule{color:#a71d5d}.token.attr-value,.token.regex,.token.string,.token.url{color:#183691}.token.atrule,.token.boolean,.token.code,.token.command,.token.constant,.token.entity,.token.number,.token.property,.token.symbol{color:#0086b3}.token.prolog,.token.selector,.token.tag{color:#63a35c}.token.attr-name,.token.class,.token.class-name,.token.function,.token.id,.token.namespace,.token.pseudo-class,.token.pseudo-element,.token.url-reference .token.variable{color:#795da3}.token.entity{cursor:help}.token.title,.token.title .token.punctuation{font-weight:700;color:#1d3e81}.token.list{color:#ed6a43}.token.inserted{background-color:#eaffea;color:#55a532}.token.deleted{background-color:#ffecec;color:#bd2c00}.token.bold{font-weight:700}.token.italic{font-style:italic}.language-json .token.property{color:#183691}.language-markup .token.tag .token.punctuation{color:#333}.language-css .token.function,code.language-css{color:#0086b3}.language-yaml .token.atrule{color:#63a35c}code.language-yaml{color:#183691}.language-ruby .token.function{color:#333}.language-markdown .token.url{color:#795da3}.language-makefile .token.symbol{color:#795da3}.language-makefile .token.variable{color:#183691}.language-makefile .token.builtin{color:#0086b3}.language-bash .token.keyword{color:#0086b3}pre[data-line]{position:relative;padding:1em 0 1em 3em}pre[data-line] .line-highlight-wrapper{position:absolute;top:0;left:0;background-color:transparent;display:block;width:100%}pre[data-line] .line-highlight{position:absolute;left:0;right:0;padding:inherit 0;margin-top:1em;background:hsla(24,20%,50%,.08);background:linear-gradient(to right,hsla(24,20%,50%,.1) 70%,hsla(24,20%,50%,0));pointer-events:none;line-height:inherit;white-space:pre}pre[data-line] .line-highlight:before,pre[data-line] .line-highlight[data-end]:after{content:attr(data-start);position:absolute;top:.4em;left:.6em;min-width:1em;padding:0 .5em;background-color:hsla(24,20%,50%,.4);color:#f4f1ef;font:bold 65%/1.5 sans-serif;text-align:center;vertical-align:.3em;border-radius:999px;text-shadow:none;box-shadow:0 1px #fff}pre[data-line] .line-highlight[data-end]:after{content:attr(data-end);top:auto;bottom:.4em}html body{font-family:'Helvetica Neue',Helvetica,'Segoe UI',Arial,freesans,sans-serif;font-size:16px;line-height:1.6;color:#333;background-color:#fff;overflow:initial;box-sizing:border-box;word-wrap:break-word}html body>:first-child{margin-top:0}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{line-height:1.2;margin-top:1em;margin-bottom:16px;color:#000}html body h1{font-size:2.25em;font-weight:300;padding-bottom:.3em}html body h2{font-size:1.75em;font-weight:400;padding-bottom:.3em}html body h3{font-size:1.5em;font-weight:500}html body h4{font-size:1.25em;font-weight:600}html body h5{font-size:1.1em;font-weight:600}html body h6{font-size:1em;font-weight:600}html body h1,html body h2,html body h3,html body h4,html body h5{font-weight:600}html body h5{font-size:1em}html body h6{color:#5c5c5c}html body strong{color:#000}html body del{color:#5c5c5c}html body a:not([href]){color:inherit;text-decoration:none}html body a{color:#08c;text-decoration:none}html body a:hover{color:#00a3f5;text-decoration:none}html body img{max-width:100%}html body>p{margin-top:0;margin-bottom:16px;word-wrap:break-word}html body>ol,html body>ul{margin-bottom:16px}html body ol,html body ul{padding-left:2em}html body ol.no-list,html body ul.no-list{padding:0;list-style-type:none}html body ol ol,html body ol ul,html body ul ol,html body ul ul{margin-top:0;margin-bottom:0}html body li{margin-bottom:0}html body li.task-list-item{list-style:none}html body li>p{margin-top:0;margin-bottom:0}html body .task-list-item-checkbox{margin:0 .2em .25em -1.8em;vertical-align:middle}html body .task-list-item-checkbox:hover{cursor:pointer}html body blockquote{margin:16px 0;font-size:inherit;padding:0 15px;color:#5c5c5c;background-color:#f0f0f0;border-left:4px solid #d6d6d6}html body blockquote>:first-child{margin-top:0}html body blockquote>:last-child{margin-bottom:0}html body hr{height:4px;margin:32px 0;background-color:#d6d6d6;border:0 none}html body table{margin:10px 0 15px 0;border-collapse:collapse;border-spacing:0;display:block;width:100%;overflow:auto;word-break:normal;word-break:keep-all}html body table th{font-weight:700;color:#000}html body table td,html body table th{border:1px solid #d6d6d6;padding:6px 13px}html body dl{padding:0}html body dl dt{padding:0;margin-top:16px;font-size:1em;font-style:italic;font-weight:700}html body dl dd{padding:0 16px;margin-bottom:16px}html body code{font-family:Menlo,Monaco,Consolas,'Courier New',monospace;font-size:.85em;color:#000;background-color:#f0f0f0;border-radius:3px;padding:.2em 0}html body code::after,html body code::before{letter-spacing:-.2em;content:'\00a0'}html body pre>code{padding:0;margin:0;word-break:normal;white-space:pre;background:0 0;border:0}html body .highlight{margin-bottom:16px}html body .highlight pre,html body pre{padding:1em;overflow:auto;line-height:1.45;border:#d6d6d6;border-radius:3px}html body .highlight pre{margin-bottom:0;word-break:normal}html body pre code,html body pre tt{display:inline;max-width:initial;padding:0;margin:0;overflow:initial;line-height:inherit;word-wrap:normal;background-color:transparent;border:0}html body pre code:after,html body pre code:before,html body pre tt:after,html body pre tt:before{content:normal}html body blockquote,html body dl,html body ol,html body p,html body pre,html body ul{margin-top:0;margin-bottom:16px}html body kbd{color:#000;border:1px solid #d6d6d6;border-bottom:2px solid #c7c7c7;padding:2px 4px;background-color:#f0f0f0;border-radius:3px}@media print{html body{background-color:#fff}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{color:#000;page-break-after:avoid}html body blockquote{color:#5c5c5c}html body pre{page-break-inside:avoid}html body table{display:table}html body img{display:block;max-width:100%;max-height:100%}html body code,html body pre{word-wrap:break-word;white-space:pre}}.markdown-preview{width:100%;height:100%;box-sizing:border-box}.markdown-preview ul{list-style:disc}.markdown-preview ul ul{list-style:circle}.markdown-preview ul ul ul{list-style:square}.markdown-preview ol{list-style:decimal}.markdown-preview ol ol,.markdown-preview ul ol{list-style-type:lower-roman}.markdown-preview ol ol ol,.markdown-preview ol ul ol,.markdown-preview ul ol ol,.markdown-preview ul ul ol{list-style-type:lower-alpha}.markdown-preview .newpage,.markdown-preview .pagebreak{page-break-before:always}.markdown-preview pre.line-numbers{position:relative;padding-left:3.8em;counter-reset:linenumber}.markdown-preview pre.line-numbers>code{position:relative}.markdown-preview pre.line-numbers .line-numbers-rows{position:absolute;pointer-events:none;top:1em;font-size:100%;left:0;width:3em;letter-spacing:-1px;border-right:1px solid #999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.markdown-preview pre.line-numbers .line-numbers-rows>span{pointer-events:none;display:block;counter-increment:linenumber}.markdown-preview pre.line-numbers .line-numbers-rows>span:before{content:counter(linenumber);color:#999;display:block;padding-right:.8em;text-align:right}.markdown-preview .mathjax-exps .MathJax_Display{text-align:center!important}.markdown-preview:not([data-for=preview]) .code-chunk .code-chunk-btn-group{display:none}.markdown-preview:not([data-for=preview]) .code-chunk .status{display:none}.markdown-preview:not([data-for=preview]) .code-chunk .output-div{margin-bottom:16px}.markdown-preview .md-toc{padding:0}.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link{display:inline;padding:.25rem 0}.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link div,.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link p{display:inline}.markdown-preview .md-toc .md-toc-link-wrapper.highlighted .md-toc-link{font-weight:800}.scrollbar-style::-webkit-scrollbar{width:8px}.scrollbar-style::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}.scrollbar-style::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,.66);border:4px solid rgba(150,150,150,.66);background-clip:content-box}html body[for=html-export]:not([data-presentation-mode]){position:relative;width:100%;height:100%;top:0;left:0;margin:0;padding:0;overflow:auto}html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{position:relative;top:0;min-height:100vh}@media screen and (min-width:914px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{padding:2em calc(50% - 457px + 2em)}}@media screen and (max-width:914px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{font-size:14px!important;padding:1em}}@media print{html body[for=html-export]:not([data-presentation-mode]) #sidebar-toc-btn{display:none}}html body[for=html-export]:not([data-presentation-mode]) #sidebar-toc-btn{position:fixed;bottom:8px;left:8px;font-size:28px;cursor:pointer;color:inherit;z-index:99;width:32px;text-align:center;opacity:.4}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] #sidebar-toc-btn{opacity:1}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc{position:fixed;top:0;left:0;width:300px;height:100%;padding:32px 0 48px 0;font-size:14px;box-shadow:0 0 4px rgba(150,150,150,.33);box-sizing:border-box;overflow:auto;background-color:inherit}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar{width:8px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,.66);border:4px solid rgba(150,150,150,.66);background-clip:content-box}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc a{text-decoration:none}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc{padding:0 16px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link{display:inline;padding:.25rem 0}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link div,html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link p{display:inline}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper.highlighted .md-toc-link{font-weight:800}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{left:300px;width:calc(100% - 300px);padding:2em calc(50% - 457px - 300px / 2);margin:0;box-sizing:border-box}@media screen and (max-width:1274px){html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{width:100%}}html body[for=html-export]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .markdown-preview{left:50%;transform:translateX(-50%)}html body[for=html-export]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .md-sidebar-toc{display:none}
+/* Please visit the URL below for more information: */
+/*   https://shd101wyy.github.io/markdown-preview-enhanced/#/customize-css */
+
+      </style>
+      <!-- The content below will be included at the end of the <head> element. --><script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", function () {
+    // your code here
+  });
+</script></head><body for="html-export">
+    
+    
+      <div class="crossnote markdown-preview  ">
+      
+<h1 id="projekt-bezpečná-křižovatka">Projekt: Bezpečná křižovatka </h1>
+<h2 id="1-lokalita">1. Lokalita </h2>
+<ul>
+<li><strong>Město:</strong> Brno – Trnitá</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Navrhovaný semafor</th>
+<th>Podobný existující semafor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><iframe src="https://www.google.com/maps/embed?pb=!4v1770230312641!6m8!1m7!1sI32ozzfJFUxCdGGKIsxQlw!2m2!1d49.19133539139823!2d16.62649540300491!3f263.33072085827234!4f-6.317946711252603!5f0.7820865974627469" width="300" height="225" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!4v1770230665711!6m8!1m7!1sPSXlFbIrndy5pd98WPTuJw!2m2!1d49.20064745284424!2d16.60766403229405!3f178.24732917024772!4f0.28937342850903747!5f0.4024170288903301" width="300" height="225" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Navrhovaný přechod</th>
+<th>Existující přechod</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><iframe src="https://www.google.com/maps/embed?pb=!4v1770230248938!6m8!1m7!1sYpZRYpwPe7dflyp-gAMgcQ!2m2!1d49.19130953498015!2d16.62498785301657!3f279.5013074111214!4f-14.84683929951953!5f0.7820865974627469" width="300" height="225" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></td>
+<td><iframe src="https://www.google.com/maps/embed?pb=!4v1770230528712!6m8!1m7!1shybSMTaxoDMUgbALKw3GtA!2m2!1d49.19162501170403!2d16.62016028832758!3f301.41185604741787!4f-1.9242934156396103!5f1.6261947506508059" width="300" height="225" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="2-nápad-a-popis">2. Nápad a popis </h2>
+<p>Tento projekt zlepšuje bezpečnost a plynulost dopravy na křižovatce Křenová–Masná.</p>
+<ul>
+<li>Přidání samostatného semaforu pro levý odbočovací pruh.</li>
+<li>Vyznačení přechodu pro chodce mezi tramvajovou zastávkou a chodníkem.</li>
+<li>Cílem je snížit riziko kolizí tramvají, aut a chránit chodce.</li>
+<li>Projekt je <strong>pro všechny, kdo denně projíždějí touto oblastí</strong>, nejen pro jednu skupinu lidí.</li>
+</ul>
+<hr>
+<h2 id="3-tvrdý-vs-měkký-projekt">3. Tvrdý vs. měkký projekt </h2>
+<ul>
+<li><strong>Tvrdý (investiční) projekt:</strong> pořizuje hmotný majetek – semafor, dopravní značení, barvy pro přechod.</li>
+<li><strong>Měkký (neinvestiční) projekt:</strong> projektová dokumentace, bezpečnostní opatření, koordinace montáže.</li>
+</ul>
+<hr>
+<h2 id="4-veřejný-prospěch">4. Veřejný prospěch </h2>
+<p>Projekt zlepšuje bezpečnost a plynulost dopravy pro <strong>všechny uživatele této oblasti</strong>:</p>
+<ul>
+<li>Řidiči levého odbočovacího pruhu mají jistotu bezpečného odbočení.</li>
+<li>Cestující tramvají jsou chráněni před kolizemi způsobenými nesprávným odbočováním.</li>
+<li>Chodci mají jasně vyznačený přechod a snížené riziko nehod.</li>
+<li>Celkově projekt <strong>snižuje dopravní zácpy a riziko nehod pro všechny</strong>.</li>
+</ul>
+<hr>
+<h2 id="5-rozpočet-projektu">5. Rozpočet projektu </h2>
+<h3 id="51-realizace-projektu-pořízení-a-instalace">5.1 Realizace projektu (pořízení a instalace) </h3>
+<table>
+<thead>
+<tr>
+<th>Položka</th>
+<th>Počet / jednotky</th>
+<th>Cena za jednotku</th>
+<th>Cena celkem</th>
+<th>Zdroj / poznámka</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Semafor – LED hlava</td>
+<td>1 ks</td>
+<td>4 700 Kč</td>
+<td>4 700 Kč</td>
+<td><a href="https://eshop.technopark.cz/z9915-sem3-semafor-3-komorovy-cervena-zluta-zelena?utm_source=chatgpt.com">Technopark – 3-komorový LED semafor</a></td>
+</tr>
+<tr>
+<td>Montáž semaforu + kabeláž + úprava DB</td>
+<td>1</td>
+<td>150 000 Kč</td>
+<td>150 000 Kč</td>
+<td>Orientační cena práce + materiál</td>
+</tr>
+<tr>
+<td>Úprava řadiče SSZ</td>
+<td>1</td>
+<td>40 000 Kč</td>
+<td>40 000 Kč</td>
+<td>Orientační cena práce + materiál</td>
+</tr>
+<tr>
+<td>Dopravní značení pro levý odbočovací pruh</td>
+<td>1</td>
+<td>25 000 Kč</td>
+<td>25 000 Kč</td>
+<td>Barva bílá: <a href="https://www.azznacky.cz/ceniky?utm_source=chatgpt.com">Azz značky – ceník</a></td>
+</tr>
+<tr>
+<td>Vyznačení přechodu pro chodce</td>
+<td>1</td>
+<td>20 000 Kč</td>
+<td>20 000 Kč</td>
+<td>Barva Signocryl S2856: <a href="https://fasadni-barvy.heureka.cz/signocryl-s2856-barva-na-vodorovne-dopravni-znaceni-vozovek-0100-bila-4-l/?utm_source=chatgpt.com">Heureka</a></td>
+</tr>
+<tr>
+<td>Dopravní značka IP6a + držák</td>
+<td>1</td>
+<td>5 000 Kč</td>
+<td>5 000 Kč</td>
+<td>Standardní značka dle TP 65</td>
+</tr>
+<tr>
+<td>Půjčení plošiny (1 den)</td>
+<td>1</td>
+<td>3 680 Kč</td>
+<td>3 680 Kč</td>
+<td><a href="https://www.pujcovna-vlk.cz/detail-produktu/316/bateriova-kloubova-plosina-16m#order">Půjčovna Vlk</a></td>
+</tr>
+<tr>
+<td><strong>Cena celkem realizace</strong></td>
+<td></td>
+<td></td>
+<td><strong>248 380 Kč</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="52-projektová-dokumentace">5.2 Projektová dokumentace </h3>
+<table>
+<thead>
+<tr>
+<th>Položka</th>
+<th>Počet</th>
+<th>Cena za jednotku</th>
+<th>Cena celkem</th>
+<th>Zdroj / poznámka</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Projektová dokumentace, technický dozor, BOZP</td>
+<td>1</td>
+<td>80 000 Kč</td>
+<td>80 000 Kč</td>
+<td>Orientační cena standardních projektů města Brna</td>
+</tr>
+</tbody>
+</table>
+<h3 id="53-roční-provozní-náklady-3-roky">5.3 Roční provozní náklady (3 roky) </h3>
+<table>
+<thead>
+<tr>
+<th>Položka</th>
+<th>Počet (roky)</th>
+<th>Cena ročně</th>
+<th>Cena celkem</th>
+<th>Zdroj / poznámka</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Údržba semaforu / signalizace</td>
+<td>3</td>
+<td>20 000 Kč</td>
+<td>60 000 Kč</td>
+<td>Orientační náklady na údržbu</td>
+</tr>
+<tr>
+<td>Údržba přechodu / značení</td>
+<td>3</td>
+<td>10 000 Kč</td>
+<td>30 000 Kč</td>
+<td>Orientační náklady na údržbu</td>
+</tr>
+<tr>
+<td><strong>Celkem provozní náklady</strong></td>
+<td></td>
+<td></td>
+<td><strong>90 000 Kč</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="54-shrnutí-tabulky-rozpočtu">5.4 Shrnutí tabulky rozpočtu </h3>
+<table>
+<thead>
+<tr>
+<th>Sekce projektu</th>
+<th>Cena celkem</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Realizace</td>
+<td>248 380 Kč</td>
+</tr>
+<tr>
+<td>Projektová dokumentace</td>
+<td>80 000 Kč</td>
+</tr>
+<tr>
+<td>Provozní náklady (3 roky)</td>
+<td>90 000 Kč</td>
+</tr>
+<tr>
+<td><strong>Celkem (orientačně)</strong></td>
+<td><strong>418 380 Kč</strong></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>Poznámka: Ceny jsou orientační a vycházejí z tržních nabídek (semafory, barvy, značení, plošiny). Konečné náklady budou upřesněny po oslovení dodavatelů a zpracování projektové dokumentace.</p>
+</blockquote>
+<hr>
+<h2 id="6-propagace">6. Propagace </h2>
+<ul>
+<li>Sdílení projektu s místními obyvateli, komunitními skupinami a na sociálních sítích.</li>
+<li>Fotografie a vizualizace křižovatky před a po realizaci.</li>
+<li>Možnost spolupráce s MČ a městskými médii pro zvýšení viditelnosti.</li>
+</ul>
+<hr>
+<h2 id="7-komunikace">7. Komunikace </h2>
+<ul>
+<li>Pravidelná kontrola e-mailu a komunikace s koordinátory PARO.</li>
+<li>Konzultace s městskými dopravními odborníky pro upřesnění technických parametrů.</li>
+</ul>
+<hr>
+<h2 id="8-proces">8. Proces </h2>
+<ul>
+<li>Projekt je připraven podle formátu participativního rozpočtu města Brna.</li>
+<li>Všechny kroky: návrh, rozpočet, ověření cen, vizualizace a dokumentace splňují požadavky pro úřední schválení.</li>
+</ul>
+
+      </div>
+      
+      
+    
+    
+    
+    
+    
+    
+  
+    </body></html>
