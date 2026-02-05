@@ -1,3 +1,5 @@
+[![Generate HTML and Commit](https://github.com/Nesa00/brno-project/actions/workflows/generate-html.yml/badge.svg)](https://github.com/Nesa00/brno-project/actions/workflows/generate-html.yml)
+[![Deploy static content to Pages](https://github.com/Nesa00/brno-project/actions/workflows/static.yml/badge.svg)](https://github.com/Nesa00/brno-project/actions/workflows/static.yml)
 # Projekt: Bezpečná křižovatka
 
 ## Cíl projektu

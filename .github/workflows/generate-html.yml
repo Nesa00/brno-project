@@ -1,4 +1,4 @@
-name: Generate HTML and Commit
+name: Generate HTML
 
 on:
   push:
