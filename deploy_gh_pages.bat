@@ -10,7 +10,7 @@ python main.py
 
 REM 3. Add and commit generated .html files
 REM Add all .html files from root and subdirectories
-git add ./*.html */*.html
+git add -f ./*.html */*.html
 
 git commit -m "Update HTML files from Markdown" || echo No changes to commit
 
