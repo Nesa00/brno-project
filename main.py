@@ -66,12 +66,16 @@ def md_to_html(md_file_path, html_file_path):
 		html_file.write(full_html)
 
 def convert_all_md_in_dir(directory):
+	# Ensure output directory exists
+	output_dir = os.path.join(directory, 'pages')
+	os.makedirs(output_dir, exist_ok=True)
 	for filename in os.listdir(directory):
 		if filename.lower().endswith('.md'):
 			base = os.path.splitext(filename)[0]
 			html_file = base + '.html'
-			print(f"Converting {filename} -> {html_file}")
-			md_to_html(os.path.join(directory, filename), os.path.join(directory, html_file))
+			html_path = os.path.join(output_dir, html_file)
+			print(f"Converting {filename} -> pages/{html_file}")
+			md_to_html(os.path.join(directory, filename), html_path)
 
 if __name__ == "__main__":
 	if len(sys.argv) == 3:

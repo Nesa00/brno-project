@@ -5,7 +5,6 @@ __pycache__/
 .env
 .DS_Store
 Thumbs.db
-*.html
 *.log
 *.htmlvenv/
 __pycache__/
