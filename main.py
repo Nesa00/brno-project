@@ -24,9 +24,26 @@ HTML_TEMPLATE = '''
 		pre, code {{ background: #f4f4f4; border-radius: 4px; padding: 2px 6px; font-size: 1em; }}
 		pre {{ padding: 1em; overflow-x: auto; }}
 		blockquote {{ border-left: 4px solid #b4b4b4; margin: 1em 0; padding: 0.5em 1em; color: #555; background: #fafafa; }}
-		table {{ border-collapse: collapse; width: 100%; margin: 1em 0; }}
-		th, td {{ border: 1px solid #ddd; padding: 0.5em 1em; }}
+		table {{
+			border-collapse: collapse;
+			
+			width: 100%;
+			overflow-x: auto;
+			max-width: 100%;
+			margin: auto;
+		}}
+		th, td {{
+			border: 1px solid #ddd;
+			padding: 0.5em 1em;
+			box-sizing: border-box;
+			word-break: break-word;
+		}}
 		th {{ background: #eee; }}
+		iframe {{
+			max-width: 100%;
+			width: 100%;
+			display: block;
+		}}
 		a {{ color: #007acc; text-decoration: none; }}
 		a:hover {{ text-decoration: underline; }}
 		ul, ol {{ margin: 1em 0 1em 2em; }}

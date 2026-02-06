@@ -6,11 +6,11 @@
 
 | Navrhovaný semafor | Podobný existující semafor |
 |-------------------|---------------------------|
-| <iframe src="https://www.google.com/maps/embed?pb=!4v1770230312641!6m8!1m7!1sI32ozzfJFUxCdGGKIsxQlw!2m2!1d49.19133539139823!2d16.62649540300491!3f263.33072085827234!4f-6.317946711252603!5f0.7820865974627469" width="300" height="225" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> | <iframe src="https://www.google.com/maps/embed?pb=!4v1770230665711!6m8!1m7!1sPSXlFbIrndy5pd98WPTuJw!2m2!1d49.20064745284424!2d16.60766403229405!3f178.24732917024772!4f0.28937342850903747!5f0.4024170288903301" width="300" height="225" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> |
+| <iframe src="https://www.google.com/maps/embed?pb=!4v1770230312641!6m8!1m7!1sI32ozzfJFUxCdGGKIsxQlw!2m2!1d49.19133539139823!2d16.62649540300491!3f263.33072085827234!4f-6.317946711252603!5f0.7820865974627469" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> | <iframe src="https://www.google.com/maps/embed?pb=!4v1770230665711!6m8!1m7!1sPSXlFbIrndy5pd98WPTuJw!2m2!1d49.20064745284424!2d16.60766403229405!3f178.24732917024772!4f0.28937342850903747!5f0.4024170288903301" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> |
 
 | Navrhovaný přechod | Existující přechod |
 |-------------------|------------------|
-| <iframe src="https://www.google.com/maps/embed?pb=!4v1770230248938!6m8!1m7!1sYpZRYpwPe7dflyp-gAMgcQ!2m2!1d49.19130953498015!2d16.62498785301657!3f279.5013074111214!4f-14.84683929951953!5f0.7820865974627469" width="300" height="225" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> | <iframe src="https://www.google.com/maps/embed?pb=!4v1770230528712!6m8!1m7!1shybSMTaxoDMUgbALKw3GtA!2m2!1d49.19162501170403!2d16.62016028832758!3f301.41185604741787!4f-1.9242934156396103!5f1.6261947506508059" width="300" height="225" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> |
+| <iframe src="https://www.google.com/maps/embed?pb=!4v1770230248938!6m8!1m7!1sYpZRYpwPe7dflyp-gAMgcQ!2m2!1d49.19130953498015!2d16.62498785301657!3f279.5013074111214!4f-14.84683929951953!5f0.7820865974627469" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> | <iframe src="https://www.google.com/maps/embed?pb=!4v1770230528712!6m8!1m7!1shybSMTaxoDMUgbALKw3GtA!2m2!1d49.19162501170403!2d16.62016028832758!3f301.41185604741787!4f-1.9242934156396103!5f1.6261947506508059" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> |
 
 ---
 
@@ -75,9 +75,9 @@ Projekt zlepšuje bezpečnost a plynulost dopravy pro **všechny uživatele tét
 
 | Sekce projektu | Cena celkem |
 |----------------|-------------|
-| Realizace | 248 380 Kč |
+| Realizace | 223 380 Kč |
 | Projektová dokumentace | 80 000 Kč |
 | Provozní náklady (3 roky) | 90 000 Kč |
-| **Celkem (orientačně)** | **418 380 Kč** |
+| **Celkem (orientačně)** | **393 380 Kč** |
 
 > Poznámka: Ceny jsou orientační a vycházejí z tržních nabídek (semafory, barvy, značení, plošiny). Konečné náklady budou upřesněny po oslovení dodavatelů a zpracování projektové dokumentace.
