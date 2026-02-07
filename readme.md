@@ -1,4 +1,4 @@
-[![Pages](https://github.com/Nesa00/brno-project/actions/workflows/pages.yml/badge.svg)](https://github.com/Nesa00/brno-project/actions/workflows/generate-html.yml)
+[![Pages](https://github.com/Nesa00/brno-project/actions/workflows/pages.yml/badge.svg)](https://github.com/Nesa00/brno-project/actions/workflows/pages.yml)
 
 # Projekt: Bezpečná křižovatka
 
