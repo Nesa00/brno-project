@@ -1,23 +1,16 @@
-[![Generate HTML and Commit](https://github.com/Nesa00/brno-project/actions/workflows/generate-html.yml/badge.svg)](https://github.com/Nesa00/brno-project/actions/workflows/generate-html.yml)
-[![Deploy static content to Pages](https://github.com/Nesa00/brno-project/actions/workflows/static.yml/badge.svg)](https://github.com/Nesa00/brno-project/actions/workflows/static.yml)
+[![Pages](https://github.com/Nesa00/brno-project/actions/workflows/pages.yml/badge.svg)](https://github.com/Nesa00/brno-project/actions/workflows/generate-html.yml)
+
 # Projekt: Bezpečná křižovatka
 
 ## Cíl projektu
-Cílem projektu je **zvýšit bezpečnost a plynulost dopravy** na křižovatce Křenová–Masná v Brně – Trnitá.  
+Zvýšit **bezpečnost a plynulost dopravy** na křižovatce Křenová–Masná v Brně (Trnitá), kde dochází ke kolizím mezi auty, tramvajemi.
 
-## Co chceme dosáhnout
-- **Samostatný semafor pro levý odbočovací pruh** – snížení rizika kolizí s tramvajemi a zbytečných stresových situací pro řidiče.  
-- **Vyznačený přechod pro chodce** mezi tramvajovou zastávkou a chodníkem – bezpečný pohyb chodců přes vozovku.  
-- Projekt je **pro všechny, kdo denně projíždějí nebo chodí touto oblastí**, tedy řidiče, chodce i cestující tramvají.  
-- Celkové **zlepšení plynulosti dopravy a snížení dopravních zácp**.
+## Navrhované řešení
+- **Samostatný semafor pro levé odbočení**, který eliminuje konflikt s tramvajovým provozem  
+- **Nový přechod pro chodce** mezi tramvajovou zastávkou a chodníkem  
+- **Zpřehlednění dopravní situace** a snížení stresu řidičů i chodců
 
-## Klíčové prvky
-- Instalace samostatného LED semaforu a úprava signalizace.  
-- Přechod pro chodce s vodorovným značením a standardní dopravní značkou.  
-- Půjčení pracovní plošiny pro bezpečnou montáž.  
-- Projektová dokumentace, bezpečnostní opatření a provozní údržba.
-
-## Přínos pro veřejnost
-Projekt zvyšuje **bezpečnost a komfort pro všechny účastníky silničního provozu**, minimalizuje riziko nehod a zajišťuje jasné a předvídatelné dopravní situace v této lokalitě.
-
----
+## Přínos
+- Snížení rizika kolizí mezi vozidly a tramvajemi  
+- Bezpečnější pohyb chodců přes vozovku  
+- Přehlednější a plynulejší dopravní situace pro všechny účastníky provozu
