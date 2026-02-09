@@ -51,8 +51,8 @@ Projekt zlepšuje bezpečnost a plynulost dopravy pro **všechny uživatele tét
 | Semafor – LED hlava | 1 ks | 4 700 Kč | 4 700 Kč | [Technopark – 3-komorový LED semafor](https://eshop.technopark.cz/z9915-sem3-semafor-3-komorovy-cervena-zluta-zelena?utm_source=chatgpt.com) |
 | Montáž semaforu + kabeláž + úprava DB | 1 | 150 000 Kč | 150 000 Kč | Orientační cena práce + materiál |
 | Úprava řadiče SSZ | 1 | 40 000 Kč | 40 000 Kč | Orientační cena práce + materiál |
-| Vyznačení přechodu pro chodce | 1 | 20 000 Kč | 20 000 Kč | Barva Signocryl S2856: [Heureka](https://fasadni-barvy.heureka.cz/signocryl-s2856-barva-na-vodorovne-dopravni-znaceni-vozovek-0100-bila-4-l/?utm_source=chatgpt.com) |
-| Dopravní značka IP6a + držák | 1 | 5 000 Kč | 5 000 Kč | Standardní značka dle TP 65 |
+| Vyznačení přechodu pro chodce | 3 | 1 595 Kč | 4 785 Kč | Barva Signocryl S2856: [Heureka](https://fasadni-barvy.heureka.cz/signocryl-s2856-barva-na-vodorovne-dopravni-znaceni-vozovek-0100-bila-4-l/?utm_source=chatgpt.com) |
+| Dopravní značka IP6 | 1 | 2 439 Kč | 2 439 Kč | [Znacka](https://www.znaceni-eshop.cz/Dopravni-znacka-zvyraznena-IP6-Prechod-pro-chodce-d349.htm) |
 | Půjčení plošiny (1 den) | 1 | 3 680 Kč | 3 680 Kč | [Půjčovna Vlk](https://www.pujcovna-vlk.cz/detail-produktu/316/bateriova-kloubova-plosina-16m#order) |
 | **Cena celkem realizace** | | | **223 380 Kč** | |
 
