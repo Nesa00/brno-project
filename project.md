@@ -54,7 +54,7 @@ Projekt zlepšuje bezpečnost a plynulost dopravy pro **všechny uživatele tét
 | Vyznačení přechodu pro chodce | 3 | 1 595 Kč | 4 785 Kč | Barva Signocryl S2856: [Heureka](https://fasadni-barvy.heureka.cz/signocryl-s2856-barva-na-vodorovne-dopravni-znaceni-vozovek-0100-bila-4-l/?utm_source=chatgpt.com) |
 | Dopravní značka IP6 | 1 | 2 439 Kč | 2 439 Kč | [Znacka](https://www.znaceni-eshop.cz/Dopravni-znacka-zvyraznena-IP6-Prechod-pro-chodce-d349.htm) |
 | Půjčení plošiny (1 den) | 1 | 3 680 Kč | 3 680 Kč | [Půjčovna Vlk](https://www.pujcovna-vlk.cz/detail-produktu/316/bateriova-kloubova-plosina-16m#order) |
-| **Cena celkem realizace** | | | **223 380 Kč** | |
+| **Cena celkem realizace** | | | **205 604 Kč** | |
 
 
 ### 4.2 Projektová dokumentace
@@ -75,9 +75,9 @@ Projekt zlepšuje bezpečnost a plynulost dopravy pro **všechny uživatele tét
 
 | Sekce projektu | Cena celkem |
 |----------------|-------------|
-| Realizace | 223 380 Kč |
+| Realizace | 205 604 Kč |
 | Projektová dokumentace | 80 000 Kč |
 | Provozní náklady (3 roky) | 90 000 Kč |
-| **Celkem (orientačně)** | **393 380 Kč** |
+| **Celkem (orientačně)** | **375,604 Kč** |
 
 > Poznámka: Ceny jsou orientační a vycházejí z tržních nabídek (semafory, barvy, značení, plošiny). Konečné náklady budou upřesněny po oslovení dodavatelů a zpracování projektové dokumentace.
