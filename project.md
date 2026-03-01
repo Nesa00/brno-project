@@ -50,11 +50,13 @@ Projekt zlepšuje bezpečnost a plynulost dopravy pro **všechny uživatele tét
 |---------|-----------------|-----------------|-------------|-----------------|
 | Semafor – LED hlava | 1 ks | 4 700 Kč | 4 700 Kč | [Technopark – 3-komorový LED semafor](https://eshop.technopark.cz/z9915-sem3-semafor-3-komorovy-cervena-zluta-zelena?utm_source=chatgpt.com) |
 | Montáž semaforu + kabeláž + úprava DB | 1 | 150 000 Kč | 150 000 Kč | Orientační cena práce + materiál |
+| Montáž zábradlí a vyznačení přechodu | 1 | 100 000 Kč | 100 000 Kč | Orientační cena včetně práce a materiálu |
 | Úprava řadiče SSZ | 1 | 40 000 Kč | 40 000 Kč | Orientační cena práce + materiál |
 | Vyznačení přechodu pro chodce | 3 | 1 595 Kč | 4 785 Kč | Barva Signocryl S2856: [Heureka](https://fasadni-barvy.heureka.cz/signocryl-s2856-barva-na-vodorovne-dopravni-znaceni-vozovek-0100-bila-4-l/?utm_source=chatgpt.com) |
 | Dopravní značka IP6 | 1 | 2 439 Kč | 2 439 Kč | [Znacka](https://www.znaceni-eshop.cz/Dopravni-znacka-zvyraznena-IP6-Prechod-pro-chodce-d349.htm) |
 | Půjčení plošiny (1 den) | 1 | 3 680 Kč | 3 680 Kč | [Půjčovna Vlk](https://www.pujcovna-vlk.cz/detail-produktu/316/bateriova-kloubova-plosina-16m#order) |
-| **Cena celkem realizace** | | | **205 604 Kč** | |
+| Zábradlí  | 10 | 3 061 Kč | 30 610 Kč | [Délka 2000 mm - žárový zinek](https://www.obexia.cz/cs/zesilene-obloukove-zabradli-1163p.html) |
+| **Cena celkem realizace** | | | **336 214 Kč** | |
 
 
 ### 4.2 Projektová dokumentace
@@ -75,9 +77,9 @@ Projekt zlepšuje bezpečnost a plynulost dopravy pro **všechny uživatele tét
 
 | Sekce projektu | Cena celkem |
 |----------------|-------------|
-| Realizace | 205 604 Kč |
+| Realizace | 336 214 Kč |
 | Projektová dokumentace | 80 000 Kč |
 | Provozní náklady (3 roky) | 90 000 Kč |
-| **Celkem (orientačně)** | **375,604 Kč** |
+| **Celkem (orientačně)** | **596 214Kč** |
 
 > Poznámka: Ceny jsou orientační a vycházejí z tržních nabídek (semafory, barvy, značení, plošiny). Konečné náklady budou upřesněny po oslovení dodavatelů a zpracování projektové dokumentace.
