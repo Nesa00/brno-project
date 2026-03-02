@@ -2,84 +2,101 @@
 
 ---
 
-## Vizualizace
+## 1. Cíl projektu
+
+Cílem projektu je zvýšit bezpečnost a plynulost dopravy na křižovatce Křenová–Masná v Brně (Trnitá). Jedná se o místo s vysokou frekvencí chodců, automobilů i tramvají, kde dlouhodobě dochází k nebezpečným situacím při levém odbočení a při pohybu chodců mezi zastávkou a chodníkem.
+
+Projekt navrhuje instalaci samostatného semaforu pro levé odbočení, nový přechod pro chodce, synchronizaci semaforů a doplnění zábradlí, aby se zvýšila bezpečnost všech účastníků provozu.
+
+---
+
+## 2. Vizualizace
 
 | Navrhovaný semafor | Podobný existující semafor |
-|-------------------|---------------------------|
-| <iframe src="https://www.google.com/maps/embed?pb=!4v1770230312641!6m8!1m7!1sI32ozzfJFUxCdGGKIsxQlw!2m2!1d49.19133539139823!2d16.62649540300491!3f263.33072085827234!4f-6.317946711252603!5f0.7820865974627469" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> | <iframe src="https://www.google.com/maps/embed?pb=!4v1770230665711!6m8!1m7!1sPSXlFbIrndy5pd98WPTuJw!2m2!1d49.20064745284424!2d16.60766403229405!3f178.24732917024772!4f0.28937342850903747!5f0.4024170288903301" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> |
+|-|-|
+| <iframe src="https://www.google.com/maps/embed?pb=!4v1770230312641!6m8!1m7!1sI32ozzfJFUxCdGGKIsxQlw!2m2!1d49.19133539139823!2d16.62649540300491!3f263.33072085827234!4f-6.317946711252603!5f0.7820865974627469" width="100%" height="300" style="border:0;" loading="lazy"></iframe> | <iframe src="https://www.google.com/maps/embed?pb=!4v1770230665711!6m8!1m7!1sPSXlFbIrndy5pd98WPTuJw!2m2!1d49.20064745284424!2d16.60766403229405!3f178.24732917024772!4f0.28937342850903747!5f0.4024170288903301" width="100%" height="300" style="border:0;" loading="lazy"></iframe> |
 
 | Navrhovaný přechod | Existující přechod |
-|-------------------|------------------|
-| <iframe src="https://www.google.com/maps/embed?pb=!4v1770230248938!6m8!1m7!1sYpZRYpwPe7dflyp-gAMgcQ!2m2!1d49.19130953498015!2d16.62498785301657!3f279.5013074111214!4f-14.84683929951953!5f0.7820865974627469" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> | <iframe src="https://www.google.com/maps/embed?pb=!4v1770230528712!6m8!1m7!1shybSMTaxoDMUgbALKw3GtA!2m2!1d49.19162501170403!2d16.62016028832758!3f301.41185604741787!4f-1.9242934156396103!5f1.6261947506508059" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> |
+|-|-|
+| <iframe src="https://www.google.com/maps/embed?pb=!4v1770230248938!6m8!1m7!1sYpZRYpwPe7dflyp-gAMgcQ!2m2!1d49.19130953498015!2d16.62498785301657!3f279.5013074111214!4f-14.84683929951953!5f0.7820865974627469" width="100%" height="300" style="border:0;" loading="lazy"></iframe> | <iframe src="https://www.google.com/maps/embed?pb=!4v1770230528712!6m8!1m7!1shybSMTaxoDMUgbALKw3GtA!2m2!1d49.19162501170403!2d16.62016028832758!3f301.41185604741787!4f-1.9242934156396103!5f1.6261947506508059" width="100%" height="300" style="border:0;" loading="lazy"></iframe> |
 
 ---
 
-## 1. Lokalita
+## 3. Lokalita
 
 - **Město:** Brno – Trnitá  
-- Křižovatka Křenová–Masná, oblast s tramvajovými pruhy a vysokou frekvencí chodců a aut.  
+- Křižovatka Křenová–Masná, oblast s tramvajovým provozem a vysokou frekvencí chodců i automobilů.
 
 ---
 
+## 4. Problém
 
-## 2. Nápad a popis
+Na křižovatce dlouhodobě dochází k nebezpečným situacím při levém odbočení směrem na Masnou, kde vozidla kříží tramvajový provoz. Chodci zároveň nemají bezpečný a legální způsob, jak se dostat mezi tramvajovou zastávkou a chodníkem, a často vstupují do vozovky mimo vyznačené místo.
 
-Tento projekt zlepšuje bezpečnost a plynulost dopravy na křižovatce Křenová–Masná.  
-- Přidání samostatného semaforu pro levý odbočovací pruh.  
-- Vyznačení přechodu pro chodce mezi tramvajovou zastávkou a chodníkem.  
-- Cílem je snížit riziko kolizí tramvají, aut a chránit chodce.  
-- Projekt je **pro všechny, kdo denně projíždějí touto oblastí**, nejen pro jednu skupinu lidí.
+Dalším problémem je nesynchronizované řízení přechodů, kdy chodci reagují na zelený signál jiného přechodu a vstupují do vozovky v nevhodný okamžik.
 
 ---
 
-## 3. Veřejný prospěch
+## 5. Nápad a popis řešení
 
-Projekt zlepšuje bezpečnost a plynulost dopravy pro **všechny uživatele této oblasti**:  
-- Řidiči levého odbočovacího pruhu mají jistotu bezpečného odbočení.  
-- Cestující tramvají jsou chráněni před kolizemi způsobenými nesprávným odbočováním.  
-- Chodci mají jasně vyznačený přechod a snížené riziko nehod.  
-- Celkově projekt **snižuje dopravní zácpy a riziko nehod pro všechny**.
+- Instalace **samostatného semaforu pro levé odbočení**, který eliminuje konflikt s tramvajemi.  
+- Vyznačení **nového přechodu pro chodce** mezi zastávkou a chodníkem.  
+- Instalace **zábradlí na nástupišti**, které zabrání vstupu chodců do vozovky mimo přechod.  
+- **Synchronizace semaforů pro chodce**, aby nedocházelo k intuitivním, ale chybným reakcím na jiný signál.  
+- Cílem je snížit riziko kolizí tramvají, automobilů a chránit chodce.
 
 ---
 
-## 4. Rozpočet projektu
+## 6. Veřejný prospěch
 
-### 4.1 Realizace projektu (pořízení a instalace)
+Projekt zlepšuje bezpečnost a plynulost dopravy pro **všechny uživatele této oblasti**:
+
+- Řidiči levého odbočovacího pruhu získají jistotu bezpečného odbočení.  
+- Cestující tramvají budou lépe chráněni před kolizemi způsobenými nesprávným odbočováním aut.  
+- Chodci získají jasně vyznačený přechod a snížené riziko střetu s vozidly.  
+- Projekt je přínosný **pro všechny, kdo denně projíždějí nebo procházejí touto oblastí**, nikoli jen pro jednu skupinu.
+
+---
+
+## 7. Rozpočet projektu
+
+### 7.1 Realizace projektu (pořízení a instalace)
 
 | Položka | Počet / jednotky | Cena za jednotku | Cena celkem | Zdroj / poznámka |
-|---------|-----------------|-----------------|-------------|-----------------|
-| Semafor – LED hlava | 1 ks | 4 700 Kč | 4 700 Kč | [Technopark – 3-komorový LED semafor](https://eshop.technopark.cz/z9915-sem3-semafor-3-komorovy-cervena-zluta-zelena?utm_source=chatgpt.com) |
+|-|-|-|-|-|
+| Semafor – LED hlava | 1 ks | 4 700 Kč | 4 700 Kč | [Technopark – 3-komorový LED semafor](https://eshop.technopark.cz/z9915-sem3-semafor-3-komorovy-cervena-zluta-zelena) |
 | Montáž semaforu + kabeláž + úprava DB | 1 | 150 000 Kč | 150 000 Kč | Orientační cena práce + materiál |
 | Montáž zábradlí a vyznačení přechodu | 1 | 100 000 Kč | 100 000 Kč | Orientační cena včetně práce a materiálu |
 | Úprava řadiče SSZ | 1 | 40 000 Kč | 40 000 Kč | Orientační cena práce + materiál |
-| Vyznačení přechodu pro chodce | 3 | 1 595 Kč | 4 785 Kč | Barva Signocryl S2856: [Heureka](https://fasadni-barvy.heureka.cz/signocryl-s2856-barva-na-vodorovne-dopravni-znaceni-vozovek-0100-bila-4-l/?utm_source=chatgpt.com) |
+| Vyznačení přechodu pro chodce | 3 | 1 595 Kč | 4 785 Kč | Barva Signocryl S2856: [Heureka](https://fasadni-barvy.heureka.cz/signocryl-s2856-barva-na-vodorovne-dopravni-znaceni-vozovek-0100-bila-4-l/) |
 | Dopravní značka IP6 | 1 | 2 439 Kč | 2 439 Kč | [Znacka](https://www.znaceni-eshop.cz/Dopravni-znacka-zvyraznena-IP6-Prechod-pro-chodce-d349.htm) |
 | Půjčení plošiny (1 den) | 1 | 3 680 Kč | 3 680 Kč | [Půjčovna Vlk](https://www.pujcovna-vlk.cz/detail-produktu/316/bateriova-kloubova-plosina-16m#order) |
-| Zábradlí  | 10 | 3 061 Kč | 30 610 Kč | [Délka 2000 mm - žárový zinek](https://www.obexia.cz/cs/zesilene-obloukove-zabradli-1163p.html) |
+| Zábradlí | 10 | 3 061 Kč | 30 610 Kč | [Délka 2000 mm – žárový zinek](https://www.obexia.cz/cs/zesilene-obloukove-zabradli-1163p.html) |
 | **Cena celkem realizace** | | | **336 214 Kč** | |
 
+### 7.2 Projektová dokumentace
 
-### 4.2 Projektová dokumentace
+| Položka | Počet | Cena za jednotku | Cena celkem |
+|-|-|-|-|
+| Projektová dokumentace, technický dozor, BOZP | 1 | 80 000 Kč | 80 000 Kč |
 
-| Položka | Počet | Cena za jednotku | Cena celkem | Zdroj / poznámka |
-|---------|-------|-----------------|-------------|-----------------|
-| Projektová dokumentace, technický dozor, BOZP | 1 | 80 000 Kč | 80 000 Kč | Orientační cena standardních projektů města Brna |
+### 7.3 Roční provozní náklady (3 roky)
 
-### 4.3 Roční provozní náklady (3 roky)
+| Položka | Počet (roky) | Cena ročně | Cena celkem |
+|-|-|-|-|
+| Údržba semaforu / signalizace | 3 | 1 000 Kč | 3 000 Kč |
+| Údržba přechodu / značení | 3 | 10 000 Kč | 30 000 Kč |
+| **Celkem provozní náklady** | | | **33 000 Kč** |
 
-| Položka | Počet (roky) | Cena ročně | Cena celkem | Zdroj / poznámka |
-|---------|---------------|------------|-------------|-----------------|
-| Údržba semaforu / signalizace | 3 | 20 000 Kč | 60 000 Kč | Orientační náklady na údržbu |
-| Údržba přechodu / značení | 3 | 10 000 Kč | 30 000 Kč | Orientační náklady na údržbu |
-| **Celkem provozní náklady** | | | **90 000 Kč** | |
-
-### 4.4 Shrnutí tabulky rozpočtu
+### 7.4 Shrnutí rozpočtu
 
 | Sekce projektu | Cena celkem |
-|----------------|-------------|
+|-|-|
 | Realizace | 336 214 Kč |
 | Projektová dokumentace | 80 000 Kč |
-| Provozní náklady (3 roky) | 90 000 Kč |
-| **Celkem (orientačně)** | **596 214Kč** |
+| Provozní náklady (3 roky) | 33 000 Kč |
+| **Celkem (orientačně)** | **449 214 Kč** |
 
-> Poznámka: Ceny jsou orientační a vycházejí z tržních nabídek (semafory, barvy, značení, plošiny). Konečné náklady budou upřesněny po oslovení dodavatelů a zpracování projektové dokumentace.
+---
+
+> Ceny jsou orientační a vycházejí z tržních nabídek (semafory, barvy, značení, plošiny). Konečné náklady budou upřesněny po oslovení dodavatelů a zpracování projektové dokumentace.
