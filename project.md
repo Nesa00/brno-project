@@ -12,13 +12,27 @@ Projekt navrhuje instalaci samostatného semaforu pro levé odbočení, nový p�
 
 ## 2. Vizualizace
 
+#### Semafor 
+
+| Pred | Po |
+|-|-|
+| <img src="images/stary-semafor.png" alt="Alt text" width="300" height="100%" style="border:0;"> | <img src="images/novy-semafor.png" alt="Alt text" width="300" height="100%" style="border:0;"> |
+
 | Navrhovaný semafor | Podobný existující semafor |
 |-|-|
 | <iframe src="https://www.google.com/maps/embed?pb=!4v1770230312641!6m8!1m7!1sI32ozzfJFUxCdGGKIsxQlw!2m2!1d49.19133539139823!2d16.62649540300491!3f263.33072085827234!4f-6.317946711252603!5f0.7820865974627469" width="100%" height="300" style="border:0;" loading="lazy"></iframe> | <iframe src="https://www.google.com/maps/embed?pb=!4v1770230665711!6m8!1m7!1sPSXlFbIrndy5pd98WPTuJw!2m2!1d49.20064745284424!2d16.60766403229405!3f178.24732917024772!4f0.28937342850903747!5f0.4024170288903301" width="100%" height="300" style="border:0;" loading="lazy"></iframe> |
 
+#### Přechod
+
+| Pred | Po |
+|-|-|
+| <img src="images/bez-prechodu.png" alt="Alt text" width="300" height="100%" style="border:0;"> | <img src="images/prechod.png" alt="Alt text" width="300" height="100%" style="border:0;"> |
+
 | Navrhovaný přechod | Existující přechod |
 |-|-|
 | <iframe src="https://www.google.com/maps/embed?pb=!4v1770230248938!6m8!1m7!1sYpZRYpwPe7dflyp-gAMgcQ!2m2!1d49.19130953498015!2d16.62498785301657!3f279.5013074111214!4f-14.84683929951953!5f0.7820865974627469" width="100%" height="300" style="border:0;" loading="lazy"></iframe> | <iframe src="https://www.google.com/maps/embed?pb=!4v1770230528712!6m8!1m7!1shybSMTaxoDMUgbALKw3GtA!2m2!1d49.19162501170403!2d16.62016028832758!3f301.41185604741787!4f-1.9242934156396103!5f1.6261947506508059" width="100%" height="300" style="border:0;" loading="lazy"></iframe> |
+
+#### Nesynchronizované semafory
 
 | Nesynchronizované semafory | 
 |-|
