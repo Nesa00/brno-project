@@ -120,3 +120,4 @@ Projekt zlepšuje bezpečnost a plynulost dopravy pro **všechny uživatele tét
 ---
 
 > Ceny jsou orientační a vycházejí z tržních nabídek (semafory, barvy, značení, plošiny). Konečné náklady budou upřesněny po oslovení dodavatelů a zpracování projektové dokumentace.
+> Fotografie jsou generované pomocí AI a mají pouze ilustrační charakter.
