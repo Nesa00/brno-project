@@ -7,6 +7,13 @@ Zvýšit bezpečnost a plynulost dopravy na křižovatce Křenová–Masná v Br
 
 ---
 
+## Obrázky
+
+<img src="images/cervene_odboceni.png" alt="Alt text" width="300" height="100%" style="border:0;"> 
+<img src="images/prechod.png" alt="Alt text" width="300" height="100%" style="border:0;"> 
+
+---
+
 ## Problém
 - Při levém odbočení směrem na Masnou vznikají nebezpečné konflikty s tramvajemi.
 - Chybí přechod mezi tramvajovou zastávkou a chodníkem, takže chodci často vstupují do vozovky mimo vyznačené místo.
